@@ -1,6 +1,6 @@
 # MUI data-grid app
 
-[Deloyed to Netlify](https://github.com/facebook/create-react-app)
+[Deloyed to Netlify](https://mui-grid-app.netlify.app/)
 
 Getting Started with Create React App - [Create React App](https://github.com/facebook/create-react-app).
 
