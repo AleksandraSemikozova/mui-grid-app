@@ -26,23 +26,13 @@
   font-weight: normal;
 }
 
-.Container {
-  max-width: 1440px;
-  margin: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
-.Grid {
-  height: 500px;
-  width: 100%;
-  padding: 4rem;
+.MuiDataGrid-virtualScrollerRenderZone {
+  transform: none !important;
 }
 
 .col-header {
   font-size: 18px;
+  height: 100px;
 }
 
 .col-text-name {
